@@ -14,3 +14,4 @@ Here you can find the index of my repositories with all my projects:
 * ### [Login SCSS](https://github.com/vincenzoarena/login-scss)
 * ### [git-sass-y](https://github.com/vincenzoarena/git-sass-y)
 * ### [pb-arithmetic-operators](https://github.com/vincenzoarena/pb-arithmetic-operators)
+* ### [The Final Project - Team Martians presents: STELLAR TRIPS](https://github.com/vincenzoarena/stellar-trips)
