@@ -2,6 +2,8 @@
 
 Here you can find the index of my repositories with all my projects:
 
+* ### [The Final Project - Team Martians presents: STELLAR TRIPS](https://github.com/vincenzoarena/stellar-trips)
+* ### [Spotify Clone](https://github.com/vincenzoarena/spotify-clone)
 * ### [Currency Converter](https://github.com/vincenzoarena/currency-converter-react)
 * ### [Notes App](https://github.com/vincenzoarena/notes-app-react)
 * ### [Expense Tracker](https://github.com/vincenzoarena/expense-tracker-react)
@@ -14,4 +16,3 @@ Here you can find the index of my repositories with all my projects:
 * ### [Login SCSS](https://github.com/vincenzoarena/login-scss)
 * ### [git-sass-y](https://github.com/vincenzoarena/git-sass-y)
 * ### [pb-arithmetic-operators](https://github.com/vincenzoarena/pb-arithmetic-operators)
-* ### [The Final Project - Team Martians presents: STELLAR TRIPS](https://github.com/vincenzoarena/stellar-trips)
